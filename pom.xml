@@ -32,5 +32,6 @@
 	</dependencies>
   <modules>
     <module>datetime-api</module>
+    <module>stream</module>
   </modules>
 </project>
